@@ -1,0 +1,45 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  margin-top: 3rem;
+}
+.details{
+  width: 25rem;
+}
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+div .h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+div button{
+  display: flex;
+  justify-content:  center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  background-color: #e72929;
+  border: none;
+  font-size: 1rem;
+  padding: 1rem;
+  width: 2;
+  border-radius: 1rem;
+  outline: none;
+}
+div button:hover{
+  opacity: .9;
+  cursor: pointer;
+}
+
+div .input-container{
+
+  margin: 1rem;
+
+}
